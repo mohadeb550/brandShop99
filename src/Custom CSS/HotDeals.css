@@ -1,0 +1,14 @@
+
+.slick-prev{
+   top: -30px ; 
+   left:unset;
+   right: 60px;
+}
+.slick-next{
+    top: -30px;
+    right: 20px;
+}
+.slick-prev::before, .slick-next::before{
+    font-size: 27px;
+    color: rgba(123, 118, 115, 0.839);
+}
